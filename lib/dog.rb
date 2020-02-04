@@ -1,1 +1,6 @@
-# Your code goes here!
+class Dog 
+  jack.name = "Jack"
+  
+  jack.bark
+end 
+
