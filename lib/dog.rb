@@ -1,6 +1,17 @@
-class Dog 
-  jack.name = "Jack"
+class Dog
+  def name=(Jack)
+    @name = jack
+  end 
+
+  def name
+    @name
+  end 
   
-  jack.bark
 end 
 
+class Dog
+  def bark
+    puts "woof!"
+  end 
+  
+end 
